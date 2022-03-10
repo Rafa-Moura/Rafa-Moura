@@ -1,4 +1,4 @@
-## Olá! Me chamo Rafael Moura e tenho 26 anos!
+## Olá, me chamo Rafael Moura. Bem vindo ao meu perfil!
 
 
 - 🔭 Hoje trabalho como Analista de BackOffice na NeoBpo
