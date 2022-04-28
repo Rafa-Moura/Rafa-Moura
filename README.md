@@ -1,9 +1,10 @@
 ## Olá, me chamo Rafael Moura. Bem vindo ao meu perfil!
 
 
-- 🔭 Hoje trabalho como Analista de BackOffice na NeoBpo
-- 🌱 Estudando Desenvolvimento FullStack pelo programa RECODE PRO 2021
+- 🔭 Formado em Análise e Desenvolvimento de Sistemas pela Universidade Estácio de Sá
+- 🌱 Formado em Desenvolvimento FullStack JR pelo programa Recode PRO 2021.
 - 📫 Pode me contatar no email: rafaelfelipe.peixoto@gmail.com
+- 📫 Pode me contatar no linkedin: https://www.linkedin.com/in/rafael-moura-dev/
 
 
  <div>
