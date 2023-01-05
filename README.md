@@ -1,10 +1,11 @@
 ## Olá, me chamo Rafael Moura. Bem vindo ao meu perfil!
 
 
-- 🔭 Formado em Análise e Desenvolvimento de Sistemas pela Universidade Estácio de Sá
-- 🌱 Formado em Desenvolvimento FullStack JR pelo programa Recode PRO 2021.
-- 📫 Pode me contatar no email: rafaelfelipe.peixoto@gmail.com
-- 📫 Pode me contatar no linkedin: https://www.linkedin.com/in/rafael-moura-dev/
+- :books: Formado em Análise e Desenvolvimento de Sistemas pela Universidade Estácio de Sá
+- :books: Formado em Desenvolvimento FullStack JR pelo programa Recode PRO 2021.
+- :computer: Desenvolvedor Java Jr
+- 📫 Email: rafaelfelipe.peixoto@gmail.com
+- 📫 Linkedin: https://www.linkedin.com/in/rafael-moura-dev/
 
 
  <div>
